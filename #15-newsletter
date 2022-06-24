@@ -1,0 +1,86 @@
+<style>
+ *{
+  font-size: 15px;
+  }
+ a{
+  text-decoration: none;
+ }
+</style>
+<br>
+
+<div style="background-color: #9b31b8; padding: 2em; text-align: center;">
+
+        <span style="font-size: 2rem; font-weight: bolder;">
+           Ibadan Techies Club
+       </span> 
+        <br>
+        <span style="color: #9b31b8; background-color: #f5f5f5; padding: 0.1em; font-weight: bold;">
+          IBTC FridayOut Newsletter#15
+       </span>
+
+</div>
+
+##Heyooo!!!!
+
+🤭 I'm so excited to start seeing everyone again. If there is one thing I won't want is to stay this long without seeing your faces again.
+
+Tomorrow is sincerely going to be one fun and interesting experience to behold!!
+
+<div style="font-size: 12px; padding: 5px 35px">Welcome to IBTCFridayOut#15 of the Ibadan Techies Club! This newsletter serves two purposes, a technical newsletter for techies worldwide and an update channel for the members of the Ibadan Techies Club and techies in Nigeria. This fantastic and carefully crafted newsletter is curated and published by 
+<b><a href="https://twitter.com/kelvinsekx">Kelvinsekx</a></b>.
+<p>Was this forwarded to you? <b><a href="https://buttondown.email/BadTechyes">You can subscribe here!</a></b></b>
+<div>
+
+## THE WEEK GIST IN REVIEW
+😣 Nothing much happened here!!!!
+
+<br>
+## STUFF THAT ARE WORTH YOUR READ
+
+[Oops 😬, numeric separator exists in JavaScript](https://davidwalsh.name/numeric-separators)<br>
+Writing big numbers (eg 1000000) has always been a hectic run for software engineers, really confusing to start doing the zeros number in one's brain unlike in the English language, **one would have used the comma separator** …but say no more.
+> `100_000 + 10_000 // returns 110000 (PS: paste the operation in your console to experience it firsthand)`<br>
+OMG 🤗, go forth and write separators in your big numbers henceforth
+
+[What the heck is about Fibonacci sequence](https://www.mathsisfun.com/numbers/fibonacci-sequence.html)<br>
+When I read computer science abstracts, Fibonacci is used as if everyone already gets it. Now you too can join the everyone-already.
+
+[Ternaries is better than the AND operator](https://kentcdodds.com/blog/use-ternaries-rather-than-and-and-in-jsx)<br>Kent.C.Dodds pushed a bug at PayPal 😱. OMG, the AND operator is the whole cause!!
+<br>
+
+## CLUB'S UPDATE
+[Last week's newsletter](https://buttondown.email/BadTechyes/archive/ibtcfridayout14-the-moon/), we announced the dates for our meetups: Tomorrow, June 25th, and July 23rd next month.
+
+Our next meetup on 23rd July was chosen to avoid a clash with the Saturdays that precede and succeeds the Id el Kabir celebration. So pardon us if it is that long.
+
+The venue tomorrow is UI hotels, The University of Ibadan, Ibadan.
+
+>We created a WhatsApp group for alert and quick information purposes. This came as a consensus from the previous meetup. The reason is to serve as a quick channel to send information and ask questions regarding reaching the venue for our members, this could have quickly helped to communicate alternative routes to our venue during the last meetup gridlock. [Please join the WhatsApp group](https://chat.whatsapp.com/HfVuTnWjgpo6CtVeyWsnR2)
+
+Some of the exciting things to expect tomorrow:
+
+- quick introduction from new members only
+- Networking break
+- Announce our SCCs heads
+- A minute time-bound game to explain a technical concept with a whiteboard 😋,
+among many others
+
+##SPONSORS
+Ade-bisi Poundo yam is a leading poundo yam manufacturer in Nigeria.<br>
+<img src="https://www.notion.so/image/https%3A%2F%2Fs3-us-west-2.amazonaws.com%2Fsecure.notion-static.com%2Fce481eb3-a9d4-4c7c-b1fb-635bbf523d44%2FIMG-20220513-WA0003.jpg?table=block&id=77e298f7-0001-4cc4-b6e0-91809c8731b4&spaceId=47289226-c605-41ff-a4a3-893cc76fa9f7&width=2000&userId=88fb13d0-8f5d-4523-985d-879894bfd515&cache=v2" alt="Ade-bisi Poudo yam" width='350' height='400'>
+
+##SHOUTOUT TO OUR BACKERS
+
+ This club and all her activities this month is backed by 
+ [Jason Palmer](https://twitter.com/palmerj3) and [Mark Mayor](https://twitter.com/marktechson)
+ 
+
+<br><br>         
+Until next week!<br>
+Kelvinsekx
+<br><br>  
+
+We meet tomorrow 😚
+<br>
+ Do not forget to follow us on
+ [Twitter if you haven't](https://twitter.com/badtechys?t=c_iT-u_8e-1Hw7acf7HXMg&amp;s=09), We've been growing.
