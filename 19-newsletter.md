@@ -72,7 +72,12 @@ Ade-bisi Poundo yam is a leading poundo yam manufacturer in Nigeria.<br>
 
  This club and all her activities this month are backed by 
  [Jason Palmer](https://twitter.com/palmerj3) and [Mark Mayor](https://twitter.com/marktechson)
-
+ 
+<div style="background: rgba(23, 150, 2, 0.1); padding: 10px 8px;">
+  <p>We'd love your help sharing this amazing newsletter with more folks in tech! We have over 90 members subscribed to this newsletter and we'd love to get to 2,000 by March, Next year.</p>
+<p>If you find this newsletter helpful, Please share it on <b>Twitter</b> (we usually tweet about the newsletter) or <b>LinkedIn</b>, or forward it to someone who can find it useful.</p>
+</div>
+ 
 
 <br><br>         
 Catch you next week!<br>
