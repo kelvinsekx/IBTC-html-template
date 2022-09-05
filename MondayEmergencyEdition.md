@@ -14,7 +14,7 @@
     </span>
 </div>
 
-##Introduction
+## Introduction
 Hey there,
 
 It has been a very long time we showed up.<br>
@@ -27,33 +27,33 @@ And to the big news, this newsletter would seize to be solely written by Kelvins
 <p>Was this forwarded to you? <b><a href="https://buttondown.email/BadTechyes">You can subscribe here!</a></b></b>
 <div>
 
-##Meet your curators
+## Meet your curators
 
-###Okunlolafz
+### Okunlolafz
 I am Okunlola Faozee, undergraduate student of Mechanical Engineering, University of Ibadan. I am a 3D artist, Game Developer and I have keen interests in AI/ML as well as other Tech related fields.
 
 
-###EarlPappi
+### EarlPappi
 I am Aponjolosun Miracle, a student of university of Ibadan. I’m a frontend developer and Table tennis is in love with me.
 
-###Kelvinsekx
+### Kelvinsekx
 I'm Ukuejubola Kelvin. A frontend developer who loves people.
 <br>
 
-##Club Update
+## Club Update
 - We are glad to announce **Ije Nwoke** as not just a backer but a partner to this initiative.
 - Very soon we would announce our next meetup edition for the month of September.
 
-##SHOUTOUT TO OUR BACKERS
+## SHOUTOUT TO OUR BACKERS
 
  This club and all her activities are backed by 
  [Jason Palmer](https://twitter.com/palmerj3), [Mark Mayor](https://twitter.com/marktechson) and [Ije Nwoke](https://twitter.com/ije_nwok).
 
 
-<br><br>         
+<br/>       
 See you on friday!<br>
-<br><br>  
+<br/>
 
-<br>
+<br/>
  Do not forget to follow us on
- [Twitter if you haven't](https://twitter.com/badtechys?t=c_iT-u_8e-1Hw7acf7HXMg&amp;s=09), We've been growing.
+ [Twitter if you haven't](https://twitter.com/badtechys), We've been growing.
