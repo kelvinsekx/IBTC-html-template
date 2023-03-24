@@ -46,3 +46,21 @@
 // EMPHASIZE
 <span style="background-color: rgba(155,49,184, 0.4);">...content</span>
 <a href="LINK" style="color: #9b31b8">WORD</a>
+
+// FOOTER
+## SHOUTOUT TO OUR BACKERS
+This club and all her activities are backed by <a href="" style="color: #9b31b8">Jason Palmer</a>, 
+<a href="" style="color: #9b31b8">Mark Mayor</a>, 
+<a href="" style="color: #9b31b8">Ije</a> and <a href="" style="color: #9b31b8">Zakk</a>.
+
+<div style="background-color: rgba( 155, 49, 184, 0.3); padding: 10px; background-opacity: 0.3">
+We'd love your help sharing this amazing newsletter with more folks in tech! We have over 90 members subscribed to this newsletter and we'd love to get to 1,000 by March, Next year.
+
+If you find this newsletter helpful, Please share it on Twitter (we usually tweet about the newsletter) or LinkedIn, or forward it to someone who can find it useful.
+</div>
+
+Catch you next time!
+Kelvinsekx,
+
+
+Do not forget to follow us on <a href="https://twitter.com/badtechys" style="color: #9b31b8">Twitter</a> if you haven’t, we’ve been growing.
