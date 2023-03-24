@@ -30,5 +30,19 @@
     </p>
 </div>
 
+//SECTION
+
+## Stuff that are worth your read
+### Software Developer
+<header>
+ Single Return is gone, don’t resurrect it
+<a href="http://agileotter.blogspot.com/2011/12/single-return-aka-elephant-proofing.html">#</a> 
+</header>
+
+
+
+// COMPONENTS
+
 // EMPHASIZE
 <span style="background-color: rgba(155,49,184, 0.4);">...content</span>
+<a href="LINK" style="color: #9b31b8">WORD</a>
